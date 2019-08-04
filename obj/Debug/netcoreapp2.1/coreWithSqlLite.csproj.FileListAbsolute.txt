@@ -1,0 +1,13 @@
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.csproj.CoreCompileInputs.cache
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.AssemblyInfoInputs.cache
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.AssemblyInfo.cs
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\bin\Debug\netcoreapp2.1\coreWithSqlLite.deps.json
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\bin\Debug\netcoreapp2.1\coreWithSqlLite.runtimeconfig.json
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\bin\Debug\netcoreapp2.1\coreWithSqlLite.runtimeconfig.dev.json
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\bin\Debug\netcoreapp2.1\coreWithSqlLite.dll
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.RazorAssemblyInfo.cache
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.RazorAssemblyInfo.cs
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.RazorTargetAssemblyInfo.cache
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\bin\Debug\netcoreapp2.1\coreWithSqlLite.pdb
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.dll
+C:\Users\mohapap\source\repos\coreWithSqlLite\coreWithSqlLite\obj\Debug\netcoreapp2.1\coreWithSqlLite.pdb
